@@ -9,17 +9,25 @@ I'm an early-career researcher with expertise in numerical relativity, gravitati
 
 ## 🚀 **Featured Projects**
 
+### 🖥️ [GRChombo](https://github.com/SeppeStaelens/GRChombo)
+**Numerical Relativity with AMR**
+- Part of the GRChombo collaboration
+- Used in e.g. [Phys. Rev. Lett. 135, 131402](https://journals.aps.org/prl/abstract/10.1103/lk48-7r2f).
+
+### 💫 [FOORT](https://github.com/SeppeStaelens/FOORT)
+**Flexible Object-Oriented Ray Tracing**
+- Helped developing the code and updating the repository
+- Used in e.g. [Physical Review D, 107(12), 124026](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.124026).
+
 ### 🌌 [White Dwarf Gravitational Wave Background](https://github.com/SeppeStaelens/White_Dwarf_AGWB)
 **Master Thesis project**
 - Gravitational wave background estimation from extragalactic white dwarf binaries
-- **Technologies:** Python, Jupyter, Gravitational Wave Analysis
+- Used for publication [Astronomy and Astrophysics, 683, A139](https://www.aanda.org/articles/aa/full_html/2024/03/aa48429-23/aa48429-23.html).
 
 ### 🎮 [Conway's Game of Life](https://github.com/SeppeStaelens/Conway-GameOfLife)
-**High-Performance C++ Implementation**
-- Efficient cellular automaton simulation developed for Cambridge coursework
+**Coursework Advanced research computing**
 - Demonstrates advanced C++ programming and algorithmic optimization
 - Academic-level software engineering practices
-- **Technologies:** C++, Algorithm Design, Performance Optimization
 
 ---
 
