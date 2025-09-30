@@ -25,7 +25,7 @@ I'm an early-career researcher with expertise in numerical relativity, gravitati
 - Used for publication [Astronomy and Astrophysics, 683, A139](https://www.aanda.org/articles/aa/full_html/2024/03/aa48429-23/aa48429-23.html).
 
 ### 🎮 [Conway's Game of Life](https://github.com/SeppeStaelens/Conway-GameOfLife)
-**Coursework Advanced research computing**
+**Coursework Advanced research computing (as part of the MPhil in Data Intensive Science**
 - Demonstrates advanced C++ programming and algorithmic optimization
 - Academic-level software engineering practices
 
