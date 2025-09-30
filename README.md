@@ -4,6 +4,7 @@
 
 I am a PhD student at DAMTP, University of Cambridge, under supervision of Prof. Ulrich Sperhake.
 I'm an early-career researcher with expertise in numerical relativity, gravitational wave astronomy, and high-performance computing.
+I am funded by the [Centre for Doctoral Training in Data Intensive Science](https://cdtdis.bigdata.cam.ac.uk/), which has given me a strong background in research computing, Bayesian statistics and machine learning.
 
 ---
 
